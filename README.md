@@ -10,3 +10,4 @@ on a plusieurs micro services:
 et pour le front-end on a 
 ecom-web-app avec angular 
 la conexion entre le front-end et le back-end et faite avec la gateway 
+Pour l'instant le projet permet seulement l'affichage des produits et des clients , l'affichage des factures n'est pas encore ajouter
